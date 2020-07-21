@@ -14,4 +14,4 @@ No Food
 
 ### Contact
 
-The best way to get in touch with me is [on Twitter](https://instagram/giri_gh).
+The best way to get in touch with me is [on Twitter](https://twitter.com/gh_giri).
