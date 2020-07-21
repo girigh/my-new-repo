@@ -1,29 +1,17 @@
-# This is a large heading
+# G H Giri
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the Thiruvanathapuram, Kerala.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Newspaper
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+No Food 
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://www.google.com/search?q=scenery&client=ubuntu&hs=rWa&channel=fs&sxsrf=ALeKk037KN2rkUr_TzqD9Muufqz6lAGmlg:1595177109716&source=lnms&tbm=isch&sa=X&ved=2ahUKEwid2Onn4dnqAhV-xjgGHTi-CY0Q_AUoAXoECBIQAw&biw=1848&bih=942#imgrc=n5qANF2A2f6a0M)
-nano README.md
+The best way to get in touch with me is [on Twitter](https://instagram/giri_gh).
